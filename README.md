@@ -42,8 +42,6 @@ teste/
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styles
 ├── script.js       # JavaScript functionality
-                    # This file
-```
 
 ---
 
@@ -89,7 +87,6 @@ teste/
 ├── index.html      # Arquivo HTML principal
 ├── styles.css      # Estilos CSS
 ├── script.js       # Funcionalidade JavaScript
-                    # Este arquivo
 ```
 
 ---
