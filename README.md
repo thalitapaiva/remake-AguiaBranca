@@ -42,7 +42,7 @@ teste/
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styles
 ├── script.js       # JavaScript functionality
-└── README.md       # This file
+                    # This file
 ```
 
 ---
